@@ -1,116 +1,96 @@
-<h1 align="center">Hola!👋, I'm Ashhad Khan</h1>
+<h1 align="center">Hola! 👋 I'm Ashhad Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=30&pause=1000&color=6f21ff&center=true&vCenter=true&width=500&lines=Turning+ideas+into+code.;Learning+and+growing+daily.;Writing+clean%2C+creative+code.;Solving+problems+with+jugaadu." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=28&pause=1000&color=2AA889&center=true&vCenter=true&width=650&lines=Python+%7C+Data+Science+Engineer;Turning+Data+into+Insights.;Machine+Learning+Enthusiast.;Solving+Real-World+Problems+with+Data." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-blueviolet?style=for-the-badge&logo=mongodb" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/Open%20to-Collabs-6f42c1?style=for-the-badge" alt="Open to Collabs" />
+  <img src="https://img.shields.io/badge/Python-Data%20Science-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Roles-2AA889?style=for-the-badge" />
 </p>
 
-## 📊 Weekly Coding Stats
+---
 
-<!--START_SECTION:waka-->
+## 💫 About Me
 
-```txt
-TypeScript   2 hrs 35 mins   ███████████▓░░░░░░░░░░░░░   46.15 %
-JavaScript   2 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   36.61 %
-Bash         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-HTML         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-```
+🎓 **B.Tech Computer Science student** with a strong interest in **Python, Data Science, and Machine Learning**.  
+I enjoy working with **data analysis, statistical modeling, SQL queries, and ML pipelines** to extract insights and solve meaningful business problems.
 
-<!--END_SECTION:waka-->
+I follow a **learn → build → improve** approach and love applying theory to real datasets 📊
 
-> 🕒 Updated daily using [WakaTime](https://wakatime.com) and GitHub Actions  
-> ⌛ Tracks time automatically as you code in VS Code!
+---
 
-# 💫 About Me:
-Resourceful B.Tech Computer Science student with a builder's mindset and a "jugaadu" approach to
-problem-solving. Passionate about turning ideas into outcomes, I thrive on learning, adapting, and finding smart ways to overcome challenges and get things done 🧿 
+## 🌐 Connect With Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashhad-rehman-khan-569750299) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashhadkhan911@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashhad-rehman-khan-569750299)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashhadkhan911@gmail.com)
 
-## 💻 Tech Stack:
+---
 
-### 🧑‍💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+## 💻 Technical Skills
+
+### 🧑‍💻 Programming Languages
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white)
-![Django]
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Statistics](https://img.shields.io/badge/Statistics-2AA889?style=flat-square)
 
-### 🛠️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=#00DC82)
-![Clerk.js](https://img.shields.io/badge/Clerk.js-3B49DF?style=flat-square&logo=clerk&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-black?style=flat-square&logo=google&logoColor=white)
-![Piston API](https://img.shields.io/badge/Piston%20API-444444?style=flat-square&logo=api&logoColor=white)
+---
+
+### 🤖 Machine Learning
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-2AA889?style=flat-square)
+![Classification](https://img.shields.io/badge/Classification-2AA889?style=flat-square)
+![Clustering](https://img.shields.io/badge/Clustering-2AA889?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-2AA889?style=flat-square)
 
 ---
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-2A2A2A?style=flat-square&logo=convex&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
 ### ⚙️ Tools & Platforms
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Lemon Squeezy](https://img.shields.io/badge/Lemon%20Squeezy-ffda79?style=flat-square&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 🎨 Design & Productivity
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-mu-gold-18.vercel.app/api?username=YASHGUPTA-007&theme=aura&hide_border=false&include_all_commits=true&count_private=true&include_orgs=true" />
+      <img src="https://github-readme-stats-mu-gold-18.vercel.app/api?username=Ashhadkhan7002&theme=aura&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=YASHGUPTA-007&theme=aura&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-mu-gold-18.vercel.app/api/top-langs/?username=YASHGUPTA-007&theme=aura&hide_border=false&layout=compact" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Ashhadkhan7002&theme=aura" />
     </td>
   </tr>
 </table>
 
+---
+
+📌 **Currently Focusing On**
+- Exploratory Data Analysis (EDA)
+- SQL & Business Analytics
+- Machine Learning Projects
+- Cloud Data Tools (Google Cloud)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YASHGUPTA-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Ashhadkhan7002&icon=0&color=0)](https://visitcount.itsvg.in)
