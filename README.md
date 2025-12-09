@@ -1,4 +1,4 @@
-<h1 align="center">Hola!👋, I'm Yash Gupta</h1>
+<h1 align="center">Hola!👋, I'm Ashhad Khan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=30&pause=1000&color=6f21ff&center=true&vCenter=true&width=500&lines=Turning+ideas+into+code.;Learning+and+growing+daily.;Writing+clean%2C+creative+code.;Solving+problems+with+jugaadu." alt="Typing SVG" />
@@ -31,13 +31,13 @@ Resourceful B.Tech Computer Science student with a builder's mindset and a "juga
 problem-solving. Passionate about turning ideas into outcomes, I thrive on learning, adapting, and finding smart ways to overcome challenges and get things done 🧿 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gupta-code007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yash_gupta_007_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash.gupta11.7.2004@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashhad-rehman-khan-569750299) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashhadkhan911@gmail.com) 
 
 ## 💻 Tech Stack:
 
 ### 🧑‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
@@ -50,13 +50,7 @@ problem-solving. Passionate about turning ideas into outcomes, I thrive on learn
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Lucide React](https://img.shields.io/badge/Lucide-000000.svg?style=flat-square&logo=lucide&logoColor=white)
-
----
+![Django]
 
 ### 🛠️ Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
